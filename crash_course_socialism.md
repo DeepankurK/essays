@@ -38,17 +38,17 @@
 
 ## Surplus Value
 
-[Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **social ownership of the means of production**. (Workers democratically own and operate the places in which they work, as opposed to private control of production aka [capitalism](https://en.wikipedia.org/wiki/Capitalism)).
+[Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **direct social ownership of the means of production**. Marx also refered to this as the "associated mode of production," or simply communism. These terms and phrases were used by Marx interchangably, although they have all taken on meanings distinct from one another over the years.
 
 The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are non-human inputs that help create economic value, such as **factories, industrial machinery, workplaces, large tracts of land**, etc. The means of production are the means of life. Socialists refer to the means of production as *capital*, or [private property](https://en.wikipedia.org/wiki/Social_ownership), IE, the things which give the people who own them power over those who don't. Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality another word for *absentee property*, whose ownership is claimed through title only (and not use), for the purpose of extracting rent from the *actual* users, occupants, or workers.
 
-In a capitalist society the means of production are owned and controlled privately, by those that can afford them (the capitalist, aka those with capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**. Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**.
+In a capitalist society the means of production are owned and controlled privately, by those that can afford them (aka those with capital). Production is carried out to **accumulate capital** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**. Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**.
 
 `Wage Theft = Worker Value Added - Wage Paid` <sup> [image](https://i.imgur.com/Dsmp9Jy.png)</sup>
 
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only 57% of their pre-tax productive output as wages<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen.** 
 
-Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, energy, transportation, and finances.
+Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, energy, transportation, and finances. The accumulation of capital demands the destruction of competing capitals.
 
 In the table below, both capital and surplus value are controlled by a company's owners, who usually appoint a board of directors. This owning class (called Capitalists, or the [Bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)) make up a **tiny minority** of the population.
 
@@ -144,7 +144,7 @@ In the table below, both capital and surplus value are controlled by a company's
 
 <p>&nbsp;</p>
 
-[Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
+[Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **dependent** on selling their labor-power (the ability to preform labor) to the owners of capital in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
 
 Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers *leads to their firing*, resulting in a benefit for the machine owner, and an economic hardship to the fired workers. 
 
