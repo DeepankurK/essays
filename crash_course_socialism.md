@@ -284,37 +284,27 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Modern introductory books
 
-- [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
-  - <pre>magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
-- [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
-  - <pre>magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
-- [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
-  - <pre>magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce</pre>
-- [Jacobin - The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
-- [Peter Gelderloos - How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state)
+- 
+- [Cyril Smith - Marx at the Millenium](https://www.marxists.org/reference/archive/smith-cyril/works/millenni/index.htm)
+- [Amadeo Bordiga - The Fundamentals of Revolutionary Communism](https://libcom.org/library/fundamentals-revolutionary-communism-amadeo-bordiga)
+- [Erich Fromm - Marx's Concept of Man](https://www.marxists.org/archive/fromm/works/1961/man/index.htm)
+
 
 ### Essays/Introductions
 
 - [Humanaesfera - Telegraphic Communist Theory](https://libcom.org/library/telegraphic-communist-theory-humanaesfera)
 - [Kämpa Tillsammans - Hamburgers vs Value](https://libcom.org/library/hamburgers-vs-value-riff-raff-group)\
 - [Gilles Dauvé - Capitalism and Communism](https://libcom.org/library/capitalism-communism-gilles-dauve)
-- [Albert Einstein - Why Socialism?](http://monthlyreview.org/2009/05/01/why-socialism/)
 - [Engels - Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) (A great glossary of socialist terms)
-- [Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
-- [Lenin - A liberal professor on Equality](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm)
-- [Eugene Debs - Capitalism and Socialism](https://www.marxists.org/archive/debs/works/1912/1912-capsoc.htm)
 
 ### Marxist literature
 
-- [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)
 - [Marx/Engels - The Communist Manifesto](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
-- [Marx - Wage Labour and Capital](https://www.marxists.org/archive/marx/works/1847/wage-labour/)
-- [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) 
-- [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/)
-- [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)
-- [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
-- [Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
-- [Trotsky - In Defense of October](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)
+- [Marx - Value, Price, & Profit](https://www.marxists.org/archive/marx/works/1865/value-price-profit/)
+- [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm)
+- [Raya Dunayevskaya - Marxism & Freedom](https://cdn.discordapp.com/attachments/368564509683744768/515440530159697920/raya-dunayevskaya-marxism-and-freedom-from-1776-until-today.pdf)
+- [Erich Fromm - The Sane Society](https://historicalunderbelly.files.wordpress.com/2012/12/erich-fromm-the-sane-society.pdf)
+- [Gilles Dauvé - The Eclipse and Re-emergence of the Communist Movement](https://libcom.org/files/Dauv%C3%A9%20with%20Martin%20-%20Eclipse%20and%20Re-emergence.pdf)
 
 ### Marxian economics
 
@@ -327,7 +317,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [John Reid - The Ten Days that Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/)
 - [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
 - [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
-- [Fidel Castro - My Life](https://en.wikipedia.org/wiki/My_Life_(Fidel_Castro_autobiography))
 - [George Orwell - Homage to Catalonia](https://en.wikipedia.org/wiki/Homage_to_Catalonia)
 - [Trotsky - History of the Russian Revolution](https://www.marxists.org/archive/trotsky/1930/hrr/)
 - [Joshua Bloom - Black Against Empire](https://www.amazon.com/Black-against-Empire-Politics-Foundation/dp/0520293282/ref=sr_1_1?ie=UTF8&qid=1485894343&sr=8-1&keywords=black+against+empire)
