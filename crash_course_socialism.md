@@ -296,6 +296,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ### Essays/Introductions
 
 - [Humanaesfera - Telegraphic Communist Theory](https://libcom.org/library/telegraphic-communist-theory-humanaesfera)
+- [Kämpa Tillsammans - Hamburgers vs Value](https://libcom.org/library/hamburgers-vs-value-riff-raff-group)\
+- [Gilles Dauvé - Capitalism and Communism](https://libcom.org/library/capitalism-communism-gilles-dauve)
 - [Albert Einstein - Why Socialism?](http://monthlyreview.org/2009/05/01/why-socialism/)
 - [Engels - Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) (A great glossary of socialist terms)
 - [Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
@@ -311,7 +313,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/)
 - [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)
 - [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
-- [Kropotkin - The Conquest of Bread](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread)
 - [Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
 - [Trotsky - In Defense of October](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)
 
