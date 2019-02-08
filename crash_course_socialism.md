@@ -284,7 +284,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Modern introductory books
 
-- 
 - [Cyril Smith - Marx at the Millenium](https://www.marxists.org/reference/archive/smith-cyril/works/millenni/index.htm)
 - [Amadeo Bordiga - The Fundamentals of Revolutionary Communism](https://libcom.org/library/fundamentals-revolutionary-communism-amadeo-bordiga)
 - [Erich Fromm - Marx's Concept of Man](https://www.marxists.org/archive/fromm/works/1961/man/index.htm)
@@ -293,7 +292,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ### Essays/Introductions
 
 - [Humanaesfera - Telegraphic Communist Theory](https://libcom.org/library/telegraphic-communist-theory-humanaesfera)
-- [Kämpa Tillsammans - Hamburgers vs Value](https://libcom.org/library/hamburgers-vs-value-riff-raff-group)\
+- [Kämpa Tillsammans - Hamburgers vs Value](https://libcom.org/library/hamburgers-vs-value-riff-raff-group)
 - [Gilles Dauvé - Capitalism and Communism](https://libcom.org/library/capitalism-communism-gilles-dauve)
 - [Engels - Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) (A great glossary of socialist terms)
 
