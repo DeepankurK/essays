@@ -266,19 +266,17 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Videos
 
-- [Introduction to Marxism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=T9Whccunka4)
-- [Socialism for Dummies by Professor Richard D. Wolff](https://www.youtube.com/watch?v=ysZC0JOYYWw)
-- [Michael Parenti - Reflections on the overthrow of the Soviet Union](https://www.youtube.com/watch?v=z7WmYEoNtPY)
-- [Paul Cockshott - Going beyond Money (how cyber communism can work)](https://www.youtube.com/watch?v=cI01-5zhwdA)
+- [Against Capitalism - Jerry Cohen](https://youtu.be/IJtSXkZQf0A)
+- [Alienation - Paul Mason](https://youtu.be/RKloksmPUCM)
+- [Introduction to the Law of Value (Xexizy)](https://youtu.be/67HfnfLYr7U)
+- [Law of Value (The Labor Theory of Value) Playlist - Brendan Cooney](https://www.youtube.com/playlist?list=PL3F695D99C91FC6F7)
 - [Michael Parenti on US imperialism, and the overthrow of Yugoslavia](https://www.youtube.com/watch?v=ApaMIJiOt-c)
-- [Michael Parenti on anti-sovietism in the US media](https://www.youtube.com/watch?v=FUWrgLpazwE)
 - [Michael Parenti on Imperialism and Film - Rambo and the Swarthy Hordes](https://www.youtube.com/watch?v=S33DKRcqvkQ)
 - [Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
 - [Dr Gabor Maté - Why Capitalism Makes Us Sick](https://www.youtube.com/watch?v=AaAJQR_9Dg8)
 - [The Philosophy of Antifa (Philosophy Tube)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [3 minute intro to Marxism](https://www.youtube.com/watch?v=Vz3eOb6Yl1s)
 - [10 minute intro to Karl Marx](https://www.youtube.com/watch?v=fSQgCy_iIcc)
-- [10 minute intro to Capitalism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=YMdIgGOYKhs)
 - [Introduction to Anarchism by Noam Chomsky](https://www.youtube.com/watch?v=7_Bv2MKY7uI), [#1](https://www.youtube.com/watch?v=RUzquEya6Lw), [#2](https://www.youtube.com/watch?v=_FHNMZbnvYU)
 - [Chomsky on american or right-libertarianism](https://www.youtube.com/watch?v=FVt7U2YIgZs)
 
@@ -297,6 +295,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Essays/Introductions
 
+- [Humanaesfera - Telegraphic Communist Theory](https://libcom.org/library/telegraphic-communist-theory-humanaesfera)
 - [Albert Einstein - Why Socialism?](http://monthlyreview.org/2009/05/01/why-socialism/)
 - [Engels - Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) (A great glossary of socialist terms)
 - [Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
@@ -318,7 +317,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Marxian economics
 
-- [Cockshott and Cottrell - Towards a New Socialism (pdf)](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub) [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
+- [Andrew Kliman - The Failure of Capitalist Production (pdf)](https://libcom.org/files/The%20failure%20of%20capitalist%20production.pdf)
 
 ### History books
 
@@ -401,13 +400,12 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/)
 - [/r/socialistRA](https://reddit.com/r/socialistRA)
 - [/r/socialism](https://www.reddit.com/r/socialism/)
-- [/r/communism](https://www.reddit.com/r/communism/)
 - [/r/anarchism](https://www.reddit.com/r/Anarchism/)
 - [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/)
 - [/r/militant](https://www.reddit.com/r/militant/)
 - 101s
   - [/r/socialism_101](https://www.reddit.com/r/Socialism_101/)
-  - [/r/communism101](https://www.reddit.com/r/communism101/)
+  - [/r/marxism_101](https://www.reddit.com/r/marxism_101/)
   - [/r/anarchy101](https://www.reddit.com/r/Anarchy101/)
 - Memes
   - [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/)
