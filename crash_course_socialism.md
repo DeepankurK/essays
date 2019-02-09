@@ -6,7 +6,7 @@
 
 - [Crash Course Socialism](#crash-course-socialism)
   * [Surplus Value](#surplus-value)
-  * [History, and Human Nature](#history-and-human-nature)
+  * [Human Nature](#human-nature)
   * [Value](#value)
   * [Conformity](#conformity)
   * [Democracy](#democracy)
@@ -154,7 +154,7 @@ Technological advancements, instead of benefiting workers, result in decreased o
 
 *The difference between these two lines is a measure of the surplus.*
 
-## History, and Human Nature
+## Human Nature
 
 **Capitalism has nothing to do with human nature**. 
 
